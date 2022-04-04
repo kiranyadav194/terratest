@@ -33,6 +33,8 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/oracle/oci-go-sdk v7.1.0+incompatible
 	github.com/pquerna/otp v1.2.0
+	github.com/gruntwork-io/terratest/modules/terraform
+	github.com/stretchr/testify/assert"
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
 	github.com/tmccombs/hcl2json v0.3.3
